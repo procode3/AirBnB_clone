@@ -33,11 +33,10 @@ $ ./console
 ```bash
 (hbnb) all User
 ```
-# Display a spacific instance
+# Display a specific instance
 ```bash
 (hbnb) show User f4f30cb6-2551-4c4b-99dd-cd59d1ebe32b
 ```
-
 
 ## Contributing
 
@@ -46,5 +45,4 @@ Pull requests are welcome. Reach out for major changes.
 Please ensure you update tests as appropriate
 
 ## License
-[ALX]
-(https://www.alxafrica.com/)
+[ALX](https://www.alxafrica.com/)
