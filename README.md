@@ -17,8 +17,8 @@ In the root folder run
 $ ./console
 ```
 
-## Testing models
-# Creating a BaseModel instance
+# Testing models
+## Creating a BaseModel instance
 
 ```bash
 (hbnb) create BaseModel
