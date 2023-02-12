@@ -14,11 +14,11 @@ The console is used to test the creation and serialization of files in a CLI.
 ## Running the console
 In the root folder run
 ```bash
-(hbnb) ./console
+$ ./console
 ```
 
 ## Testing models
-# creating a BaseModel instance
+# Creating a BaseModel instance
 
 ```bash
 (hbnb) create BaseModel
