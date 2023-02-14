@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""class place inheriting from BaseModel
+"""class Place inheriting from BaseModel
 """
 
 from models.base_model import BaseModel
 
 
 class Place(BaseModel):
-    """class place inheriting from BaseModel
+    """class Place which inherits from BaseModel
     """
 
     city_id = ""
@@ -14,7 +14,8 @@ class Place(BaseModel):
     name = ""
     description = ""
     number_rooms = 0
-    max_guests = 0
+    number_bathrooms = 0
+    max_guest = 0
     price_by_night = 0
     latitude = 0.0
     longitude = 0.0
